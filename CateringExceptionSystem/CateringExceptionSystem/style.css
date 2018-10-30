@@ -1,0 +1,50 @@
+﻿body {
+}
+
+.navigation {
+    background-color: #a41e35;
+}
+
+
+.font {
+    font-family: pt-san;
+    font-size: 50px;
+    text-align: center;
+    padding: 100px;
+    color: white;
+    font-weight: bold;
+}
+
+.title {
+    color: #a41e35;
+    font-family: "Arvo";
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.headerText {
+    color: #a41e35;
+    font-family: "Arvo";
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+}
+
+
+Th {
+    background-color: #a41e35;
+    color: white;
+    font-weight: bold;
+    font-family: pt-san;
+    font-size: 1.3em;
+}
+
+.templeButton {
+    background-color: #a41e35;
+    width: 60%;
+    color: white;
+}
