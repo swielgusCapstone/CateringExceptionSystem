@@ -71,6 +71,7 @@
     <Content Include="image\Artboard 1.png" />
     <Content Include="image\Billboard2.jpg" />
     <Content Include="image\Temple Logo.png" />
+    <Content Include="script.js" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>

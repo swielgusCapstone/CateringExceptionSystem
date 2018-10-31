@@ -35,7 +35,7 @@
 }
 
 
-Th {
+Th{
     background-color: #a41e35;
     color: white;
     font-weight: bold;
@@ -45,6 +45,7 @@ Th {
 
 .templeButton {
     background-color: #a41e35;
-    width: 60%;
+    width: auto;
     color: white;
 }
+ 
