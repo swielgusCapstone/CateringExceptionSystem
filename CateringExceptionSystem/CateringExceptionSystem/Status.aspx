@@ -13,181 +13,157 @@
                 <section class="align-self-md-center">
                     <div class="panel panel-default">
                         <div class="panel-heading headerText">Catering Exception Request Status</div>
+                        <div class="contentArea">
+
+                            <%-- PROGRESS BAR --%>
+
+                            <div class="col-md-12" style="margin-top: 2%;">
+                                <div class="row">
+                                    <div class="col-md-2 offset-md-2" style="text-align: right;">
+                                        <asp:Label ID="lblFirstStep" runat="server" Text="Authorized Budget Unit"></asp:Label>
+                                    </div>
+                                    <div class="col-md-3 offset-md-1">
+                                        <asp:Label ID="lblSecondStep" runat="server" Text="Cherry & White Catering Company"></asp:Label>
+                                    </div>
+                                    <div class="col-md-2" style="text-align: center;">
+                                        <asp:Label ID="lblThirdStep" runat="server" Text="Office of Business Services"></asp:Label>
+                                    </div>
+                                </div>
+                            </div>
+
+                        <div class="progress" style="width:75%;margin-left: 14%;margin-bottom: 1%;margin-top: 1%;">
+                            <div class="progress-bar bg-success" role="progressbar" style="width: 33%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Approved</div>
+                            <div class="progress-bar" role="progressbar" style="width: .1%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar bg-success" role="progressbar" style="width: 33%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">Approved</div>
+                        </div>
+
+                        <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-2 offset-md-2" style="text-align: right;">
+                                        <asp:Label ID="lblApprover1" runat="server" Text="Rose - September 4, 2018 (09:45:23 AM)"></asp:Label>
+                                    </div>
+                                    <div class="col-md-2 offset-md-1" style="text-align: right;">
+                                        <asp:Label ID="lblApprover2" runat="server" Text="Guy Fieri - September 9, 2019 (04:23:14 PM)"></asp:Label>
+                                    </div>
+                                    <div class="col-md-2" style="text-align: center;">
+                                        <asp:Label ID="lblApprover3" runat="server" Text=""></asp:Label>
+                                    </div>
+                                </div>
+                            </div>
+
+                        <%-- COMMENTS TABLE --%>
+
+                        <div class="commentTable">
                         <div class="panel-body mt-3">
-                            <table class="table table-light thead-dark">
+                            <div id="commentTableHeader">
+                                <asp:Label ID="commentHeader" runat="server" Text="Comments" style="margin-left: 14px;margin-bottom: 0px;font-size: 20px; color: white;"></asp:Label>
+                            </div>
+                            <table class="table table-light thead-dark" id="tableStyle" style="margin-top: 4%;">
                                 <tr>
-                                    <th>Outside Catering</th>
-                                    <th>Requester Name</th>
-                                    <th>Department Name</th>
-                                    <th>Location</th>
-                                    <th>Date Submitted</th>
-                                    <th>Event Date</th>
-                                    <th>Status</th>
-                                    <th>View Request</th>
+                                    <th style="background-color: #899197; border-top-color: #a41e35;">Admin Name</th>
+                                    <th style="background-color: #899197; border-top-color: #a41e35;">Comment</th>
+                                    <th style="background-color: #899197; border-top-color: #a41e35;">Date</th>
                                 </tr>
                            
                                 <tr>
-                                    <td>Jimmy John's</td>
                                     <td>John Boo</td>
-                                    <td>Chemistry</td>
-                                    <td> SERC 220</td>
-                                    <td>2018-07-16</td>
-                                    <td>2018-07-28</td>
-                                    <td>Pending</td>
                                     <td>
-                                        <button class="btn templeButton" type="button">View</button>
+                                        <button class="btn templeButton" type="button" style="width: 21%;">View</button>
                                     </td>
+                                    <td>15 Sep, 2018 (8:56 AM)</td>
                                 </tr>
                                 <tr>
-                                    <td>City View Pizza</td>
-                                    <td>John Moo</td>
-                                    <td>Math</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Pending</td>
+                                    <td>Michael Robinson</td>
                                     <td>
-                                        <button class="btn templeButton" type="button">View</button>
+                                        <button class="btn templeButton" type="button" style="width: 21%;">View</button>
                                     </td>
+                                    <td>15 Sep, 2018 (7:12 AM)</td>
                                 </tr>
                                 <tr>
-                                    <td>City View Pizza</td>
-                                    <td>John Woo</td>
-                                    <td>CIS</td>
-                                    <td>Alter 314</td>
-                                    <td>2018-10-17</td>
-                                    <td>2018-10-24</td>
-                                    <td>pending</td>
+                                    <td>Alexander Robinson</td>
                                     <td>
-                                        <button class="btn templeButton" type="button">View</button>
+                                        <button class="btn templeButton" type="button" style="width: 21%;">View</button>
                                     </td>
+                                    <td>15 Sep, 2018 (4:34 AM)</td>
                                 </tr>
                                 <tr>
-                                    <td>Burger King</td>
-                                    <td>Mike Boo</td>
-                                    <td>CIS</td>
-                                    <td>Alter 314</td>
-                                    <td>2018-10-17</td>
-                                    <td>2018-10-24</td>
-                                    <td>Pending</td>
+                                    <td>Jennifer Pinsker</td>
                                     <td>
-                                        <button class="btn templeButton" type="button">View</button>
+                                        <button class="btn templeButton" type="button" style="width: 21%;">View</button>
                                     </td>
-                                </tr>
-                  
-                                <tr>
-                                    <td>Jimmy John's</td>
-                                    <td>John Boo</td>
-                                    <td>CIS</td>
-                                    <td> SERC 220</td>
-                                    <td>2018-07-16</td>
-                                    <td>2018-07-28</td>
-                                    <td>Pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
+                                    <td>15 Sep, 2018 (2:08 AM)</td>
                                 </tr>
                                 <tr>
-                                    <td>McDonald's</td>
-                                    <td>Ken Moo</td>
-                                    <td>CIS</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Pending</td>
+                                    <td>Bob Dylan</td>
                                     <td>
-                                        <button class="btn templeButton" type="button">View</button>
+                                        <button class="btn templeButton" type="button" style="width: 21%;">View</button>
                                     </td>
+                                    <td>16 Sep, 2018 (10:45 AM)</td>
                                 </tr>
                                 <tr>
-                                    <td>Dunkin Donut</td>
-                                    <td>Jacky Jackson</td>
-                                    <td>Math</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Pending</td>
+                                    <td>John Jimmy</td>
                                     <td>
-                                        <button class="btn templeButton" type="button">View</button>
+                                        <button class="btn templeButton" type="button" style="width: 21%;">View</button>
                                     </td>
+                                    <td>16 Sep, 2018 (1:05 PM)</td>
                                 </tr>
                                 <tr>
-                                    <td>McDonald's</td>
-                                    <td>Kendrick Moon</td>
-                                    <td>CIS</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Pending</td>
+                                    <td>Lexi Gomez</td>
                                     <td>
-                                        <button class="btn templeButton" type="button">View</button>
+                                        <button class="btn templeButton" type="button" style="width: 21%;">View</button>
                                     </td>
+                                    <td>17 Sep, 2018 (8:34 AM)</td>
                                 </tr>
                                 <tr>
-                                    <td>Papa John</td>
-                                    <td>Ken Moo</td>
-                                    <td>Public Health</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Pending</td>
+                                    <td>Jake Davis</td>
                                     <td>
-                                        <button class="btn templeButton" type="button">View</button>
+                                        <button class="btn templeButton" type="button" style="width: 21%;">View</button>
                                     </td>
-                                </tr>
-                                <tr>
-                                    <td>Shake Shack</td>
-                                    <td>Jake Woo</td>
-                                    <td>CIS</td>
-                                    <td>Alter 314</td>
-                                    <td>2018-10-17</td>
-                                    <td>2018-10-24</td>
-                                    <td>Pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
-                                </tr>
-                                
+                                    <td>17 Sep, 2018 (4:45 AM)</td>
+                                </tr> 
                             </table>
+                        </div>
+                        </div>
                         </div>
                     </div>
                 </section>
             </div>
 </div>
 
+        <%-- SUBMITTED EXCEPTION FORM --%>
 
-        <div class="col-md-12 headerText">
+        <div class="col-md-12 headerText" style="margin-top: 2%;">
                 Catering Exception Form - Submitted
         </div>
-
         <div class="row contentArea">
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-5">
-                        <asp:Label ID="lblEventLocation" runat="server" Text="Event Location (Building/Room) *"></asp:Label>
+                        <asp:Label ID="lblEventLocation" runat="server" Text="Event Location (Building/Room)"></asp:Label>
                         <br />
-                        <asp:TextBox ID="txEventLocation" CssClass="inputBox" runat="server"></asp:TextBox>
+                        <asp:Label ID="filledEventLocation" runat="server" Text="Student Center"></asp:Label>
                     </div>
                     <div class="col-md-1"></div>
                     <div class="col-md-2">
                         <asp:Label ID="lblTodaysDate" runat="server" Text="Today's Date"></asp:Label>
                         <br />
-                        <asp:TextBox ID="txtTodaysDate" CssClass="inputBox" runat="server"></asp:TextBox>
+                        <asp:Label ID="filledTodaysDate" runat="server" Text="September 5, 2018"></asp:Label>
                     </div>
                     <div class="col-md-1"></div>
                     <div class="col-md-2">
-                        <asp:Label ID="lblDateOfEvent" runat="server" Text="Date of Event *"></asp:Label>
+                        <asp:Label ID="DateOfEvent" runat="server" Text="Date of Event *"></asp:Label>
                         <br />
-                        <asp:TextBox ID="txtDateOfEvent" CssClass="inputBox" runat="server"></asp:TextBox>
+                        <asp:Label ID="filledDateOfEvent" runat="server" Text="September 28, 2018"></asp:Label>
                     </div>
                 </div>
             </div>
         </div>
         <br />
         <div class="row" style="width: 91%; margin: auto;">
-            <div class="col-md-4">
-                <asp:Button ID="btnDepartment" CssClass="btnFormType1" runat="server" Text="Department" />
-                <asp:Button ID="btnStudentOrg" CssClass="btnFormType2" runat="server" Text="Student Organization" />
+            <div class="col-md-2">
+                <div id="submittedContentHeader">
+                      <asp:Label ID="lblDepartmentOrStudent" runat="server" Text="Department" style="margin-left: 14px;margin-bottom: 0px;font-size: 20px; color: white;"></asp:Label>
+                </div>
             </div>
         </div>
         <div class="row contentArea">
@@ -199,24 +175,24 @@
                 </div>
                 <div class="row">
                     <div class="col-md-3">
-                        <asp:Label ID="lblDepartmentName" runat="server" Text="Department Name *"></asp:Label>
+                        <asp:Label ID="lblDepartmentName" runat="server" Text="Department Name"></asp:Label>
                         <br />
-                        <asp:TextBox ID="txtDepartmentName" CssClass="inputBox" runat="server"></asp:TextBox>
+                        <asp:Label ID="filledDepartmentName" runat="server" Text="TU Dev"></asp:Label>
                     </div>
                     <div class="col-md-3">
-                        <asp:Label ID="lblContactPerson" runat="server" Text="Contact Person *"></asp:Label>
+                        <asp:Label ID="lblContactPerson" runat="server" Text="Contact Person"></asp:Label>
                         <br />
-                        <asp:TextBox ID="txtContactPerson" CssClass="inputBox" runat="server"></asp:TextBox>
+                        <asp:Label ID="filledContactPerson" runat="server" Text="Bob Billy"></asp:Label>
                     </div>
                     <div class="col-md-3">
-                        <asp:Label ID="lblPhoneNumber" runat="server" Text="Phone Number *"></asp:Label>
+                        <asp:Label ID="lblPhoneNumber" runat="server" Text="Phone Number"></asp:Label>
                         <br />
-                        <asp:TextBox ID="txtPhoneNumber" CssClass="inputBox" TextMode="Phone" Placeholder="(555) 123-5678" runat="server"></asp:TextBox>
+                        <asp:Label ID="filledPhoneNumber" runat="server" Text="215-430-9999"></asp:Label>
                     </div>
                     <div class="col-md-3">
-                        <asp:Label ID="lblEmail" runat="server" Text="Department Email*"></asp:Label>
+                        <asp:Label ID="lblEmail" runat="server" Text="Department Email"></asp:Label>
                         <br />
-                        <asp:TextBox ID="txtEmail" CssClass="inputBox" TextMode="Email" runat="server"></asp:TextBox>
+                        <asp:Label ID="filledEmail" runat="server" Text="tug12345@temple.edu"></asp:Label>
                     </div>
                 </div>
                 <br />
@@ -226,52 +202,42 @@
         <div class="row contentArea">
             <div class="col-md-12">
                 <div class="row">
-                    <div class="col-md-4">
-                        <asp:Label ID="lblCheckApply" CssClass="ExemptionCheck" runat="server" Text="Check all that apply:"></asp:Label>
-                    </div>
-                    <div class="col-md-8" style="text-align: right;">
+
+                    <div class="col-md-12" style="text-align: right;">
                         <a href="#">
                             <img src="https://cdn2.iconfinder.com/data/icons/pictograms-3/512/25-512.png" class="infoIcon"></img>
                         </a>
                     </div>
                 </div>
                 <br />
-                <div class="row">
+                
+                <div class="row" style="margin-top: -22px;">
                     <div class="col-md-4">
-                        <asp:Label ID="lblPizza" CssClass="ExemptionCheck" runat="server" Text="Is your caterer providing pizza?"></asp:Label>
-                        <asp:CheckBox ID="chkPizza" runat="server" />
-                    </div>
-                    <div class="col-md-4">
-                        <asp:Label ID="lblCateringCost" CssClass="ExemptionCheck" runat="server" Text="Is your catering going to cost over $250?"></asp:Label>
-                        <asp:CheckBox ID="chkCateringCost" runat="server" />
-                    </div>
-                    <div class="col-md-4">
-                        <asp:Label ID="lblDonated" CssClass="ExemptionCheck" runat="server" Text="Is your catering being donated?"></asp:Label>
-                        <asp:CheckBox ID="chkDonated" runat="server" />
-                    </div>
-                </div>
-                <br />
-                <div class="row">
-                    <div class="col-md-5">
-                        <asp:Label ID="lblOutsideCaterer" runat="server" Text="Outside Caterer *"></asp:Label>
+                        <asp:Label ID="lblPizza" runat="server" Text="Is your caterer providing pizza?"></asp:Label>
+                        <asp:Label ID="filledPizza" runat="server" Text="Yes"></asp:Label>
                         <br />
-                        <asp:DropDownList ID="ddlOutsideCaterer" CssClass="inputBox" runat="server">
-                            <asp:ListItem Value="cityview" Text="City View"></asp:ListItem>
-                            <asp:ListItem Value="other" Text="Other"></asp:ListItem>
-                        </asp:DropDownList>
+                        <asp:Label ID="lblCateringCost" runat="server" Text="Is your catering going to cost over $250?"></asp:Label>
+                        <asp:Label ID="filledCateringCost" runat="server" Text="No"></asp:Label>
+                        <br />
+                        <asp:Label ID="lblDonated" runat="server" Text="Is your catering being donated?"></asp:Label>
+                        <asp:Label ID="filledDonated" runat="server" Text="No"></asp:Label>                    
                     </div>
-                    <div class="col-md-1"></div>
                     <div class="col-md-3">
+                        <asp:Label ID="lblOutsideCaterer" runat="server" Text="Outside Caterer"></asp:Label>
+                        <br />
+                        <asp:Label ID="filledOutsideCaterer" runat="server" Text="City View"></asp:Label>
+                    </div>
+                    <div class="col-md-2">
                         <asp:Label ID="lblCatererName" runat="server" Text="Caterer Name"></asp:Label>
                         <br />
-                        <asp:TextBox ID="txtCatererName" CssClass="inputBox" BackColor="Gray" ReadOnly="true" runat="server"></asp:TextBox>
+                        <asp:Label ID="filledCatererName" runat="server" Text="N / A"></asp:Label>
                     </div>
-
+                    
                     <div class="col-md-3">
                         <asp:Label ID="lblCOI" runat="server" Text="Certificate Of Insurance"></asp:Label>
                         <br />
-                        <asp:TextBox ID="txtCOI" CssClass="inputBox" Width="60%" BackColor="Gray" ReadOnly="true" runat="server"></asp:TextBox>
-                        <asp:Button ID="btnAttachCOI" CssClass="btnAttachCOI" runat="server" Text="Upload" />
+                        <asp:Label ID="filledCOI" runat="server" Text="HeresMyCOI.pdf"></asp:Label>
+                        <i class="fa fa-file-pdf-o"></i>
                     </div>
                 </div>
                 <br />
@@ -285,66 +251,31 @@
                         <img src="https://cdn2.iconfinder.com/data/icons/pictograms-3/512/25-512.png" class="infoIcon"></img>
                     </a>
                 </div>
-                <div class="row">
-                    <div class="col-md-7">
-                        <asp:Label ID="lblJustification" runat="server" Text="Justification for Catering Exception Request *"></asp:Label>
-                        <br />
-                        <asp:TextBox ID="txtJustification" CssClass="inputBox" TextMode="MultiLine" Rows="5" Columns="60" runat="server"></asp:TextBox>
-                    </div>
-                    <div class="col-md-1"></div>
+
+                <div class="row" style="margin-top: -22px;">
                     <div class="col-md-4">
-                        <%--<div class="row ExemptionCheck">
-                            <div class="col-md-12 ExemptionCheck"> 
-                                <asp:Label ID="lblPizza" CssClass="ExemptionCheck" runat="server" Text="Is your caterer providing pizza?"></asp:Label>
-                                <asp:CheckBox ID="chkPizza" runat="server" />
-                            </div>
-                            <div class="col-md-12 ExemptionCheck">
-                                <asp:Label ID="lblCateringCost" CssClass="ExemptionCheck" runat="server" Text="Is your catering going to cost over $250?"></asp:Label>
-                                <asp:CheckBox ID="chkCateringCost" runat="server" />
-                            </div>
-                            <div class="col-md-12 ExemptionCheck">
-                                <asp:Label ID="lblDonated" CssClass="ExemptionCheck" runat="server" Text="Is your catering being donated?"></asp:Label>
-                                <asp:CheckBox ID="chkDonated" runat="server" />
-                            </div>
-                        </div>--%>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <asp:Label ID="lblBudgetUnit" runat="server" Text="Budget Unit Approver *"></asp:Label>
-                                <br />
-                                <asp:DropDownList ID="DropDownList1" CssClass="inputBox" runat="server">
-                                    <asp:ListItem Value="spencer" Text="Spencer Wielgus"></asp:ListItem>
-                                    <asp:ListItem Value="jake" Text="Jacob Davis"></asp:ListItem>
-                                    <asp:ListItem Value="alice" Text="Alice Marks"></asp:ListItem>
-                                    <asp:ListItem Value="y" Text="Y Hy"></asp:ListItem>
-                                    <asp:ListItem Value="phu" Text="Phu Ly"></asp:ListItem>
-                                </asp:DropDownList>
-                            </div>
-                        </div>
+                        <asp:Label ID="lblJustification" runat="server" Text="Justification for Catering Exception Request"></asp:Label>
                         <br />
-                        <div class="row">
-                            <div class="col-md-12">
-                                <asp:Label ID="lblSupportingDocs" runat="server" Text="Supporting Documentation"></asp:Label>
-                                <br />
-                                <asp:TextBox ID="txtSupportingDocs" CssClass="inputBox" Width="60%" runat="server"></asp:TextBox>
-                                <asp:Button ID="btnSupportingDocs" CssClass="btnAttachCOI" runat="server" Text="Upload" />
-                            </div>
-                        </div>
+                        <asp:Label ID="filledJustification" runat="server" Text="I just really love pizza."></asp:Label>
+                        <br />                  
                     </div>
+                    <div class="col-md-3">
+                        <asp:Label ID="lblApprover" runat="server" Text="Budget Unit Approver"></asp:Label>
+                                <br />
+                        <asp:Label ID="filledApprover" runat="server" Text="John Smith"></asp:Label>
+                    </div>
+                    <div class="col-md-3">
+                        <asp:Label ID="lblDocumentation" runat="server" Text="Supporting Documentation"></asp:Label>
+                                <br />
+                         <asp:Label ID="filledDocumentation" runat="server" Text="None Provided"></asp:Label>
+                    </div>
+                    
                 </div>
                 
                 <br />
                 <br />
-                <div class="row">
-                    <div class="col-md-4"></div>
-                    <div class="col-md-2">
-                        <asp:Button ID="btnSaveDraft" CssClass="btnEnd" runat="server" Text="Save as Draft" />
-                    </div>
-                    <div class="col-md-2">
-                        <asp:Button ID="btnSubmit" CssClass="btnEnd" runat="server" Text="Submit" />
-                    </div>
-                    <div class="col-md-4"></div>
-                </div>
             </div>
         </div>
+        <br /><br />
 </div>
 </asp:Content>

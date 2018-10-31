@@ -13,6 +13,69 @@ namespace CateringExceptionSystem {
     public partial class Status {
         
         /// <summary>
+        /// lblFirstStep control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblFirstStep;
+        
+        /// <summary>
+        /// lblSecondStep control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblSecondStep;
+        
+        /// <summary>
+        /// lblThirdStep control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblThirdStep;
+        
+        /// <summary>
+        /// lblApprover1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblApprover1;
+        
+        /// <summary>
+        /// lblApprover2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblApprover2;
+        
+        /// <summary>
+        /// lblApprover3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblApprover3;
+        
+        /// <summary>
+        /// commentHeader control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label commentHeader;
+        
+        /// <summary>
         /// lblEventLocation control.
         /// </summary>
         /// <remarks>
@@ -22,13 +85,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblEventLocation;
         
         /// <summary>
-        /// txEventLocation control.
+        /// filledEventLocation control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txEventLocation;
+        protected global::System.Web.UI.WebControls.Label filledEventLocation;
         
         /// <summary>
         /// lblTodaysDate control.
@@ -40,49 +103,40 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblTodaysDate;
         
         /// <summary>
-        /// txtTodaysDate control.
+        /// filledTodaysDate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtTodaysDate;
+        protected global::System.Web.UI.WebControls.Label filledTodaysDate;
         
         /// <summary>
-        /// lblDateOfEvent control.
+        /// DateOfEvent control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblDateOfEvent;
+        protected global::System.Web.UI.WebControls.Label DateOfEvent;
         
         /// <summary>
-        /// txtDateOfEvent control.
+        /// filledDateOfEvent control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDateOfEvent;
+        protected global::System.Web.UI.WebControls.Label filledDateOfEvent;
         
         /// <summary>
-        /// btnDepartment control.
+        /// lblDepartmentOrStudent control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnDepartment;
-        
-        /// <summary>
-        /// btnStudentOrg control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnStudentOrg;
+        protected global::System.Web.UI.WebControls.Label lblDepartmentOrStudent;
         
         /// <summary>
         /// lblDepartmentName control.
@@ -94,13 +148,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblDepartmentName;
         
         /// <summary>
-        /// txtDepartmentName control.
+        /// filledDepartmentName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtDepartmentName;
+        protected global::System.Web.UI.WebControls.Label filledDepartmentName;
         
         /// <summary>
         /// lblContactPerson control.
@@ -112,13 +166,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblContactPerson;
         
         /// <summary>
-        /// txtContactPerson control.
+        /// filledContactPerson control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtContactPerson;
+        protected global::System.Web.UI.WebControls.Label filledContactPerson;
         
         /// <summary>
         /// lblPhoneNumber control.
@@ -130,13 +184,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblPhoneNumber;
         
         /// <summary>
-        /// txtPhoneNumber control.
+        /// filledPhoneNumber control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtPhoneNumber;
+        protected global::System.Web.UI.WebControls.Label filledPhoneNumber;
         
         /// <summary>
         /// lblEmail control.
@@ -148,22 +202,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblEmail;
         
         /// <summary>
-        /// txtEmail control.
+        /// filledEmail control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtEmail;
-        
-        /// <summary>
-        /// lblCheckApply control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblCheckApply;
+        protected global::System.Web.UI.WebControls.Label filledEmail;
         
         /// <summary>
         /// lblPizza control.
@@ -175,13 +220,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblPizza;
         
         /// <summary>
-        /// chkPizza control.
+        /// filledPizza control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CheckBox chkPizza;
+        protected global::System.Web.UI.WebControls.Label filledPizza;
         
         /// <summary>
         /// lblCateringCost control.
@@ -193,13 +238,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblCateringCost;
         
         /// <summary>
-        /// chkCateringCost control.
+        /// filledCateringCost control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CheckBox chkCateringCost;
+        protected global::System.Web.UI.WebControls.Label filledCateringCost;
         
         /// <summary>
         /// lblDonated control.
@@ -211,13 +256,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblDonated;
         
         /// <summary>
-        /// chkDonated control.
+        /// filledDonated control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CheckBox chkDonated;
+        protected global::System.Web.UI.WebControls.Label filledDonated;
         
         /// <summary>
         /// lblOutsideCaterer control.
@@ -229,13 +274,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblOutsideCaterer;
         
         /// <summary>
-        /// ddlOutsideCaterer control.
+        /// filledOutsideCaterer control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlOutsideCaterer;
+        protected global::System.Web.UI.WebControls.Label filledOutsideCaterer;
         
         /// <summary>
         /// lblCatererName control.
@@ -247,13 +292,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblCatererName;
         
         /// <summary>
-        /// txtCatererName control.
+        /// filledCatererName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtCatererName;
+        protected global::System.Web.UI.WebControls.Label filledCatererName;
         
         /// <summary>
         /// lblCOI control.
@@ -265,22 +310,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblCOI;
         
         /// <summary>
-        /// txtCOI control.
+        /// filledCOI control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtCOI;
-        
-        /// <summary>
-        /// btnAttachCOI control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnAttachCOI;
+        protected global::System.Web.UI.WebControls.Label filledCOI;
         
         /// <summary>
         /// lblJustification control.
@@ -292,75 +328,48 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblJustification;
         
         /// <summary>
-        /// txtJustification control.
+        /// filledJustification control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtJustification;
+        protected global::System.Web.UI.WebControls.Label filledJustification;
         
         /// <summary>
-        /// lblBudgetUnit control.
+        /// lblApprover control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblBudgetUnit;
+        protected global::System.Web.UI.WebControls.Label lblApprover;
         
         /// <summary>
-        /// DropDownList1 control.
+        /// filledApprover control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+        protected global::System.Web.UI.WebControls.Label filledApprover;
         
         /// <summary>
-        /// lblSupportingDocs control.
+        /// lblDocumentation control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblSupportingDocs;
+        protected global::System.Web.UI.WebControls.Label lblDocumentation;
         
         /// <summary>
-        /// txtSupportingDocs control.
+        /// filledDocumentation control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSupportingDocs;
-        
-        /// <summary>
-        /// btnSupportingDocs control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSupportingDocs;
-        
-        /// <summary>
-        /// btnSaveDraft control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSaveDraft;
-        
-        /// <summary>
-        /// btnSubmit control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSubmit;
+        protected global::System.Web.UI.WebControls.Label filledDocumentation;
     }
 }
