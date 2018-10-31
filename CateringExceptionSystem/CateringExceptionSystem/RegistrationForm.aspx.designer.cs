@@ -166,15 +166,6 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.Label lblCheckApply;
         
         /// <summary>
-        /// lblPizza control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblPizza;
-        
-        /// <summary>
         /// chkPizza control.
         /// </summary>
         /// <remarks>
@@ -184,13 +175,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.CheckBox chkPizza;
         
         /// <summary>
-        /// lblCateringCost control.
+        /// lblPizza control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblCateringCost;
+        protected global::System.Web.UI.WebControls.Label lblPizza;
         
         /// <summary>
         /// chkCateringCost control.
@@ -202,13 +193,13 @@ namespace CateringExceptionSystem {
         protected global::System.Web.UI.WebControls.CheckBox chkCateringCost;
         
         /// <summary>
-        /// lblDonated control.
+        /// lblCateringCost control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblDonated;
+        protected global::System.Web.UI.WebControls.Label lblCateringCost;
         
         /// <summary>
         /// chkDonated control.
@@ -218,6 +209,15 @@ namespace CateringExceptionSystem {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.CheckBox chkDonated;
+        
+        /// <summary>
+        /// lblDonated control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblDonated;
         
         /// <summary>
         /// lblOutsideCaterer control.

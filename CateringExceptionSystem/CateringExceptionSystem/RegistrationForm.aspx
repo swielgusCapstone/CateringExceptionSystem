@@ -84,23 +84,19 @@
                     </div>
                 </div>
                 <br />
+                
                 <div class="row">
-                    <div class="col-md-4">
-                        <asp:Label ID="lblPizza" CssClass="ExemptionCheck" runat="server" Text="Is your caterer providing pizza?"></asp:Label>
+                    <div class="col-md-3">
                         <asp:CheckBox ID="chkPizza" runat="server" />
-                    </div>
-                    <div class="col-md-4">
-                        <asp:Label ID="lblCateringCost" CssClass="ExemptionCheck" runat="server" Text="Is your catering going to cost over $250?"></asp:Label>
+                        <asp:Label ID="lblPizza" CssClass="ExemptionCheck" runat="server" Text="Is your caterer providing pizza?"></asp:Label>
+                        <br />
                         <asp:CheckBox ID="chkCateringCost" runat="server" />
-                    </div>
-                    <div class="col-md-4">
-                        <asp:Label ID="lblDonated" CssClass="ExemptionCheck" runat="server" Text="Is your catering being donated?"></asp:Label>
+                        <asp:Label ID="lblCateringCost" CssClass="ExemptionCheck" runat="server" Text="Is your catering going to cost over $250?"></asp:Label>
+                        <br />
                         <asp:CheckBox ID="chkDonated" runat="server" />
+                        <asp:Label ID="lblDonated" CssClass="ExemptionCheck" runat="server" Text="Is your catering being donated?"></asp:Label>
                     </div>
-                </div>
-                <br />
-                <div class="row">
-                    <div class="col-md-5">
+                    <div class="col-md-3">
                         <asp:Label ID="lblOutsideCaterer" runat="server" Text="Outside Caterer *"></asp:Label>
                         <br />
                         <asp:DropDownList ID="ddlOutsideCaterer" CssClass="inputBox" runat="server">
@@ -109,12 +105,12 @@
                         </asp:DropDownList>
                     </div>
                     <div class="col-md-1"></div>
-                    <div class="col-md-3">
+                    <div class="col-md-2">
                         <asp:Label ID="lblCatererName" runat="server" Text="Caterer Name"></asp:Label>
                         <br />
                         <asp:TextBox ID="txtCatererName" CssClass="inputBox" BackColor="Gray" ReadOnly="true" runat="server"></asp:TextBox>
                     </div>
-
+                    
                     <div class="col-md-3">
                         <asp:Label ID="lblCOI" runat="server" Text="Certificate Of Insurance"></asp:Label>
                         <br />
