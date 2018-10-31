@@ -22,11 +22,11 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="collapse_target">
-                    <a class="navbar-brand" href="Home.aspx">
+                    <a class="navbar-brand" href="#">
                         <img src="image/Temple Logo.png" height="40" /></a>
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a href="Home.aspx" class="nav-link">Home</a>
+                            <a href="#" class="nav-link">Home</a>
                         </li>
                         <li class="nav-item">
                             <a href="Dashboard.aspx" class="nav-link">Dashboard</a>
