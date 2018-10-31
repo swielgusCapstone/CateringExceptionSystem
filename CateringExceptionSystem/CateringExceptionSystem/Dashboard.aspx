@@ -16,18 +16,22 @@
                                 <tr>
                                     <th>Outside Catering</th>
                                     <th>Requester Name</th>
+                                    <th>Department Name</th>
                                     <th>Location</th>
                                     <th>Date Submitted</th>
                                     <th>Event Date</th>
+                                    <th>Status</th>
                                     <th>View Request</th>
                                 </tr>
                            
                                 <tr>
                                     <td>Jimmy John's</td>
                                     <td>John Boo</td>
+                                    <td>Chemistry</td>
                                     <td> SERC 220</td>
                                     <td>2018-07-16</td>
                                     <td>2018-07-28</td>
+                                    <td>Pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
@@ -35,9 +39,11 @@
                                 <tr>
                                     <td>City View Pizza</td>
                                     <td>John Moo</td>
+                                    <td>Math</td>
                                     <td>Tuttleman 108</td>
                                     <td>2018-10-16</td>
                                     <td>2018-10-23</td>
+                                    <td>Pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
@@ -45,9 +51,11 @@
                                 <tr>
                                     <td>City View Pizza</td>
                                     <td>John Woo</td>
+                                    <td>CIS</td>
                                     <td>Alter 314</td>
                                     <td>2018-10-17</td>
                                     <td>2018-10-24</td>
+                                    <td>pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
@@ -55,9 +63,11 @@
                                 <tr>
                                     <td>Burger King</td>
                                     <td>Mike Boo</td>
+                                    <td>CIS</td>
                                     <td>Alter 314</td>
                                     <td>2018-10-17</td>
                                     <td>2018-10-24</td>
+                                    <td>Pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
@@ -66,9 +76,11 @@
                                 <tr>
                                     <td>Jimmy John's</td>
                                     <td>John Boo</td>
+                                    <td>CIS</td>
                                     <td> SERC 220</td>
                                     <td>2018-07-16</td>
                                     <td>2018-07-28</td>
+                                    <td>Pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
@@ -76,9 +88,11 @@
                                 <tr>
                                     <td>McDonald's</td>
                                     <td>Ken Moo</td>
+                                    <td>CIS</td>
                                     <td>Tuttleman 108</td>
                                     <td>2018-10-16</td>
                                     <td>2018-10-23</td>
+                                    <td>Pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
@@ -86,9 +100,11 @@
                                 <tr>
                                     <td>Dunkin Donut</td>
                                     <td>Jacky Jackson</td>
+                                    <td>Math</td>
                                     <td>Tuttleman 108</td>
                                     <td>2018-10-16</td>
                                     <td>2018-10-23</td>
+                                    <td>Pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
@@ -96,9 +112,11 @@
                                 <tr>
                                     <td>McDonald's</td>
                                     <td>Kendrick Moon</td>
+                                    <td>CIS</td>
                                     <td>Tuttleman 108</td>
                                     <td>2018-10-16</td>
                                     <td>2018-10-23</td>
+                                    <td>Pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
@@ -106,9 +124,11 @@
                                 <tr>
                                     <td>Papa John</td>
                                     <td>Ken Moo</td>
+                                    <td>Public Health</td>
                                     <td>Tuttleman 108</td>
                                     <td>2018-10-16</td>
                                     <td>2018-10-23</td>
+                                    <td>Pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
@@ -116,9 +136,11 @@
                                 <tr>
                                     <td>Shake Shack</td>
                                     <td>Jake Woo</td>
+                                    <td>CIS</td>
                                     <td>Alter 314</td>
                                     <td>2018-10-17</td>
                                     <td>2018-10-24</td>
+                                    <td>Pending</td>
                                     <td>
                                         <button class="btn templeButton" type="button">View</button>
                                     </td>
