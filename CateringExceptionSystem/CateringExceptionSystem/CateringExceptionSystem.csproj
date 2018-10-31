@@ -72,6 +72,7 @@
     <Content Include="image\Artboard 1.png" />
     <Content Include="image\Billboard2.jpg" />
     <Content Include="image\Temple Logo.png" />
+    <Content Include="Login.aspx" />
     <Content Include="RequestStatus.aspx" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
@@ -92,6 +93,13 @@
       <DependentUpon>Dashboard.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
     <Compile Include="RequestStatus.aspx.cs">
       <DependentUpon>RequestStatus.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
