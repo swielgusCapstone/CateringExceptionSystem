@@ -21,7 +21,6 @@
     font-weight: bold;
     font-style: italic;
     text-align: center;
-    padding-top: 50px;
 }
 
 .headerText {
@@ -29,8 +28,6 @@
     font-family: "Arvo";
     font-weight: bold;
     font-style: italic;
-    text-align: center;
-    padding-top: 50px;
     font-size: 35px;
 }
 
@@ -46,5 +43,10 @@ Th {
 .templeButton {
     background-color: #a41e35;
     width: 60%;
+    color: white;
+}
+.templeButton2 {
+    background-color: #a41e35;
+    width: 43%;
     color: white;
 }

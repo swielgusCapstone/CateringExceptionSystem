@@ -6,7 +6,7 @@
         <div>
         <h1 class="title">Admin Dashboard</h1>
             </div>
-        <div class="row">
+        <div class="row " >
             <div class="col-md-12">
                 <section class="align-self-md-center">
                     <div class="panel panel-default">
