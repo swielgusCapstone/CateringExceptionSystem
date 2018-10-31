@@ -144,7 +144,7 @@
                                     <td>02/25/2018</td>
                                     <td>Approved</td>
                                     <td>
-                                        <button type="button">Download</button>
+                                        <button class="btn templeButton" type="button">Download</button>
                                     </td>
                                 </tr>
                                 <tr>
@@ -153,7 +153,7 @@
                                     <td>04/14/2018</td>
                                     <td>Approved</td>
                                     <td>
-                                        <button type="button">Download</button>
+                                        <button class="btn templeButton" type="button">Download</button>
                                     </td>
                                 </tr>
                                 <tr>
@@ -162,7 +162,7 @@
                                     <td>08/11/2018</td>
                                     <td>Approved</td>
                                     <td>
-                                        <button type="button">Download</button>
+                                        <button class="btn templeButton" type="button">Download</button>
                                     </td>
                                 </tr>
                                 <tr>
@@ -171,7 +171,7 @@
                                     <td>11/12/2018</td>
                                     <td>Approved</td>
                                     <td>
-                                        <button type="button">Download</button>
+                                        <button class="btn templeButton"type="button">Download</button>
                                     </td>
                                 </tr>
                                 <tr>
@@ -180,7 +180,7 @@
                                     <td>09/5/2018</td>
                                     <td>Approved</td>
                                     <td>
-                                        <button type="button">Download</button>
+                                        <button class="btn templeButton" type="button">Download</button>
                                     </td>
                                 </tr>
                             </table>
