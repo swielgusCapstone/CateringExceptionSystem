@@ -26,168 +26,70 @@
                                 </tr>
                                  </thead>
                                 <tbody>
-                                    <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td>SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>alex Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Wendy</td><td>Jake Tuck</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Taco Bells</td><td>Tuck Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Papa John</td><td>Mike Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Burger King</td><td>Jack King</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Jim Moot</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Subway</td><td>Abe Ham</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Tim Ome</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Mcdonalds</td><td>Tom Davis</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Dunkin’ Donuts</td><td>David Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Chick-fil-A</td><td>Alex Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Domino’s</td><td>Peter Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Pizza Hut</td><td>Him Law Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Panera Bread</td><td>Jen Jackson</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Chipotle</td><td>Joo Chen</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>KFC</td><td>Tiffany Nixon</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Arby’s</td><td>Richard Nixon</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Little Caesars</td><td>Bill Clinton</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Jacky Rob</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Jimmy John's</td><td>Rob Jacky</td><td>Chemistry</td><td>SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Alice Nasus</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Wendy</td><td>Lux King</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Taco Bells</td><td>Tammy Peter</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Papa John</td><td>Peter Jackson</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Burger King</td><td>John Smith</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Kim Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Subway</td><td>Hugo Mingo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Darius Mingo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Mcdonalds</td><td>Tiffany Ly</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Dunkin’ Donuts</td><td>Shen Mango</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Chick-fil-A</td><td>Bysim Harris</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Domino’s</td><td>Phu Jim</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Pizza Hut</td><td>Leon Chan</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Panera Bread</td><td>Urgot Smith</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Chipotle</td><td>Caitlyn Shef</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>KFC</td><td>Teemo Devil</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Arby’s</td><td>Ahri Smith</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Little Caesars</td><td>Sandry Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Mingo Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Jimmy John's</td><td>Jesus Boop</td><td>Chemistry</td><td>SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Hitman Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Wendy</td><td>Malphite</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Taco Bells</td><td>Kevin Smith</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Papa John</td><td>Luffy Dragon</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Burger King</td><td>Master Chief</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>John 117</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Subway</td><td>Cortana John</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Jacobb Smith</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Mcdonalds</td><td>Roger King</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Dunkin’ Donuts</td><td>Thresh Mango</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Chick-fil-A</td><td>Nami Fish</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Domino’s</td><td>Wukong Monkey</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Pizza Hut</td><td>Garen Darmaciea</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Panera Bread</td><td>Jarvan LOL</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Chipotle</td><td>Xin Zhao</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>KFC</td><td>Ryze Blue</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Arby’s</td><td>Yasuo Smith</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>Little Caesars</td><td>Jimmy Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
-                                    <tr><td>City View Pizza</td><td>Leon Moo</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button">View</button></td></tr>
+                                    <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td>SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>alex Moo</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Wendy</td><td>Jake Tuck</td><td>CIS</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-01-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Taco Bells</td><td>Tuck Moo</td><td>CST</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-02-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Papa John</td><td>Mike Moo</td><td>Kinesiology</td><td>Student Center 108</td><td>2018-03-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Burger King</td><td>Jack King</td><td>CIS</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Jim Moot</td><td>Physics</td><td>Tuttleman 108</td><td>2018-6-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Subway</td><td>Abe Ham</td><td>CST</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2017-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Tim Ome</td><td>Math</td><td>Student Center 108</td><td>2016-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Mcdonalds</td><td>Tom Davis</td><td>Kinesiology</td><td>Mitten Hall 108</td><td>2015-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Dunkin’ Donuts</td><td>David Moo</td><td>Math</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Chick-fil-A</td><td>Alex Moo</td><td>Math</td><td>Student Center 108</td><td>2018-06-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Domino’s</td><td>Peter Moo</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-14</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Pizza Hut</td><td>Him Law Moo</td><td>Physics</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Panera Bread</td><td>Jen Jackson</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Chipotle</td><td>Joo Chen</td><td>CIS</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>KFC</td><td>Tiffany Nixon</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Arby’s</td><td>Richard Nixon</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Little Caesars</td><td>Bill Clinton</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Jacky Rob</td><td>CIS</td><td>Student Center 108</td><td>2018-04-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Jimmy John's</td><td>Rob Jacky</td><td>Chemistry</td><td>SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Alice Nasus</td><td>Math</td><td>Student Center 108</td><td>2018-05-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Wendy</td><td>Lux King</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Taco Bells</td><td>Tammy Peter</td><td>Kinesiology</td><td>Mitten Hall</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Papa John</td><td>Peter Jackson</td><td>Math</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Burger King</td><td>John Smith</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Kim Moo</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Subway</td><td>Hugo Mingo</td><td>CST</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Darius Mingo</td><td>Math</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Mcdonalds</td><td>Tiffany Ly</td><td>Physics</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Dunkin’ Donuts</td><td>Shen Mango</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Chick-fil-A</td><td>Bysim Harris</td><td>CST</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Domino’s</td><td>Phu Jim</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Pizza Hut</td><td>Leon Chan</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Panera Bread</td><td>Urgot Smith</td><td>Math</td><td>Tyler School of Art Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Chipotle</td><td>Caitlyn Shef</td><td>Physics</td><td>Tyler School of Art Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>KFC</td><td>Teemo Devil</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Arby’s</td><td>Ahri Smith</td><td>CST</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Little Caesars</td><td>Sandry Moo</td><td>CST</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Mingo Moo</td><td>Kinesiology</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Jimmy John's</td><td>Jesus Boop</td><td>Chemistry</td><td>SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Hitman Moo</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Wendy</td><td>Malphite</td><td>CIS</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Taco Bells</td><td>Kevin Smith</td><td>CST</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Papa John</td><td>Luffy Dragon</td><td>CIS</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Burger King</td><td>Master Chief</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2017-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>John 117</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Subway</td><td>Cortana John</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2016-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Jacobb Smith</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2015-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Mcdonalds</td><td>Roger King</td><td>CST</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2014-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Dunkin’ Donuts</td><td>Thresh Mango</td><td>CIS</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2013-10-21</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Chick-fil-A</td><td>Nami Fish</td><td>CIS</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-28</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Domino’s</td><td>Wukong Monkey</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Pizza Hut</td><td>Garen Darmaciea</td><td>Kinesiology</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Panera Bread</td><td>Jarvan LOL</td><td>CIS</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Chipotle</td><td>Xin Zhao</td><td>CST</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-25</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>KFC</td><td>Ryze Blue</td><td>CIS</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-11-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Arby’s</td><td>Yasuo Smith</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-11-23</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>Little Caesars</td><td>Jimmy Moo</td><td>CST</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-11-26</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Leon Moo</td><td>Physics</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-27</td><td>Pending</td><td><button class="btn templeButton" type="button"><i class="fas fa-eye"></i> View</button></td></tr>
                                     
-
-                                <tr>
-                                    <td>City View Pizza</td>
-                                    <td>John Woo</td>
-                                    <td>CIS</td>
-                                    <td>Alter 314</td>
-                                    <td>2018-10-17</td>
-                                    <td>2018-10-24</td>
-                                    <td>pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>Burger King</td>
-                                    <td>Mike Boo</td>
-                                    <td>CIS</td>
-                                    <td>Alter 314</td>
-                                    <td>2018-10-17</td>
-                                    <td>2018-10-24</td>
-                                    <td>Pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
-                                </tr>
-                  
-                                <tr>
-                                    <td>Jimmy John's</td>
-                                    <td>John Boo</td>
-                                    <td>CIS</td>
-                                    <td> SERC 220</td>
-                                    <td>2018-07-16</td>
-                                    <td>2018-07-28</td>
-                                    <td>Pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>McDonald's</td>
-                                    <td>Ken Moo</td>
-                                    <td>CIS</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>Dunkin Donut</td>
-                                    <td>Jacky Jackson</td>
-                                    <td>Math</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>McDonald's</td>
-                                    <td>Kendrick Moon</td>
-                                    <td>CIS</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>Papa John</td>
-                                    <td>Ken Moo</td>
-                                    <td>Public Health</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>Shake Shack</td>
-                                    <td>Jake Woo</td>
-                                    <td>CIS</td>
-                                    <td>Alter 314</td>
-                                    <td>2018-10-17</td>
-                                    <td>2018-10-24</td>
-                                    <td>Pending</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">View</button>
-                                    </td>
-                                </tr>
-                                </tbody>
+                               </tbody>
                             </table>
-                        </div>
+                        </div> 
                     </div>
                     <div class="panel panel-default">
                         <div class="panel-heading mt-3 headerText">Completed Request</div>
@@ -202,85 +104,72 @@
                                     <th>Date Submitted</th>
                                     <th>Event Date</th>
                                     <th>Status</th>
-                                    <th>View Request</th>
+                                    <th>Download</th>
                                 </tr>
                                  </thead>
                                  <tbody>
-                                <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-                                 <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td> SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button">Download</button></td></tr>
-
-                                 <tr>
-                                    <td>McDonald's</td>
-                                    <td>Kendrick Moon</td>
-                                    <td>CIS</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Completed</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">Download</button>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>Papa John</td>
-                                    <td>Ken Moo</td>
-                                    <td>Public Health</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Completed</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">Download</button>
-                                    </td>
-                                </tr>
-                                  <tr>
-                                    <td>McDonald's</td>
-                                    <td>Kendrick Moon</td>
-                                    <td>CIS</td>
-                                    <td>Tuttleman 108</td>
-                                    <td>2018-10-16</td>
-                                    <td>2018-10-23</td>
-                                    <td>Completed</td>
-                                    <td>
-                                        <button class="btn templeButton" type="button">Download</button>
-                                    </td>
-                                </tr>
-                                     </tbody>
+                                    <tr><td>Jimmy John's</td><td>John Boo</td><td>Chemistry</td><td>SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>alex Moo</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Wendy</td><td>Jake Tuck</td><td>CIS</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-01-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Taco Bells</td><td>Tuck Moo</td><td>CST</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-02-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Papa John</td><td>Mike Moo</td><td>Kinesiology</td><td>Student Center 108</td><td>2018-03-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Burger King</td><td>Jack King</td><td>CIS</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Jim Moot</td><td>Physics</td><td>Tuttleman 108</td><td>2018-6-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Subway</td><td>Abe Ham</td><td>CST</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2017-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City  Pizza</td><td>Tim Ome</td><td>Math</td><td>Student Center 108</td><td>2016-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Mcdonalds</td><td>Tom Davis</td><td>Kinesiology</td><td>Mitten Hall 108</td><td>2015-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Dunkin’ Donuts</td><td>David Moo</td><td>Math</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Chick-fil-A</td><td>Alex Moo</td><td>Math</td><td>Student Center 108</td><td>2018-06-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Domino’s</td><td>Peter Moo</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-14</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Pizza Hut</td><td>Him Law Moo</td><td>Physics</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Panera Bread</td><td>Jen Jackson</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Chipotle</td><td>Joo Chen</td><td>CIS</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>KFC</td><td>Tiffany Nixon</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Arby’s</td><td>Richard Nixon</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Little Caesars</td><td>Bill Clinton</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Jacky Rob</td><td>CIS</td><td>Student Center 108</td><td>2018-04-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Jimmy John's</td><td>Rob Jacky</td><td>Chemistry</td><td>SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Alice Nasus</td><td>Math</td><td>Student Center 108</td><td>2018-05-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Wendy</td><td>Lux King</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Taco Bells</td><td>Tammy Peter</td><td>Kinesiology</td><td>Mitten Hall</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Papa John</td><td>Peter Jackson</td><td>Math</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Burger King</td><td>John Smith</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Kim Moo</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Subway</td><td>Hugo Mingo</td><td>CST</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Darius Mingo</td><td>Math</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Mcdonalds</td><td>Tiffany Ly</td><td>Physics</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Dunkin’ Donuts</td><td>Shen Mango</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Chick-fil-A</td><td>Bysim Harris</td><td>CST</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Domino’s</td><td>Phu Jim</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Pizza Hut</td><td>Leon Chan</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Panera Bread</td><td>Urgot Smith</td><td>Math</td><td>Tyler School of Art Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Chipotle</td><td>Caitlyn Shef</td><td>Physics</td><td>Tyler School of Art Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>KFC</td><td>Teemo Devil</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Arby’s</td><td>Ahri Smith</td><td>CST</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Little Caesars</td><td>Sandry Moo</td><td>CST</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Mingo Moo</td><td>Kinesiology</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Jimmy John's</td><td>Jesus Boop</td><td>Chemistry</td><td>SERC 220</td><td>2018-07-16</td><td>2018-07-28</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Hitman Moo</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Wendy</td><td>Malphite</td><td>CIS</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Taco Bells</td><td>Kevin Smith</td><td>CST</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Papa John</td><td>Luffy Dragon</td><td>CIS</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Burger King</td><td>Master Chief</td><td>Physics</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2017-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>John 117</td><td>Kinesiology</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Subway</td><td>Cortana John</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2016-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Jacobb Smith</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2015-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Mcdonalds</td><td>Roger King</td><td>CST</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2014-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Dunkin’ Donuts</td><td>Thresh Mango</td><td>CIS</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2013-10-21</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Chick-fil-A</td><td>Nami Fish</td><td>CIS</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-28</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Domino’s</td><td>Wukong Monkey</td><td>Math</td><td>Tuttleman 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Pizza Hut</td><td>Garen Darmaciea</td><td>Kinesiology</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Panera Bread</td><td>Jarvan LOL</td><td>CIS</td><td>Mitten Hall 108</td><td>2018-10-16</td><td>2018-10-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Chipotle</td><td>Xin Zhao</td><td>CST</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-10-25</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>KFC</td><td>Ryze Blue</td><td>CIS</td><td>Tyler School of Art 108</td><td>2018-10-16</td><td>2018-11-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Arby’s</td><td>Yasuo Smith</td><td>Math</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-11-23</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>Little Caesars</td><td>Jimmy Moo</td><td>CST</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-11-26</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Leon Moo</td><td>Physics</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-27</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                    <tr><td>City View Pizza</td><td>Leon Moo</td><td>Physics</td><td>Student Center 108</td><td>2018-10-16</td><td>2018-10-27</td><td>Completed</td><td><button class="btn templeButton" type="button"><i class="fas fa-download"></i> Download</button></td></tr>
+                                   </tbody>
                                  </table>
                         </div>
                     </div>
