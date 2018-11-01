@@ -21,6 +21,7 @@
     font-weight: bold;
     font-style: italic;
     text-align: center;
+    padding-top: 50px;
 }
 
 .headerText {
@@ -28,6 +29,8 @@
     font-family: "Arvo";
     font-weight: bold;
     font-style: italic;
+    text-align: center;
+    padding-top: 20px;
     font-size: 35px;
 }
 
@@ -45,8 +48,67 @@ Th {
     width: 60%;
     color: white;
 }
-.templeButton2 {
+
+.contentArea {
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.inputBox {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.btnFormType1 {
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 48%;
+    text-align: left;
     background-color: #a41e35;
-    width: 43%;
+    border-color: #a41e35;
     color: white;
 }
+
+.btnFormType2 {
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 48%;
+    text-align: left;
+}
+
+.infoIcon{
+    height: 25px;
+    width: 25px;
+}
+
+.btnAttachCOI {
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 35%;
+    background-color: #a41e35;
+    border-color: #a41e35;
+    color: white;
+}
+
+.ExemptionCheck {
+    font-size: 18px;
+    margin: auto;
+}
+
+.btnEnd {
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+    background-color: #007bc2;
+    border-color: #007bc2;
+    color: white;
+}
+
