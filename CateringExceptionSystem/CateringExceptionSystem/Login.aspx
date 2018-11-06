@@ -10,6 +10,7 @@
                     <div class="row"><div class="col-12"><asp:TextBox runat="server" ID="txtUsername"></asp:TextBox></div></div>
                     <div class="row"><div class="col-12"><asp:TextBox runat="server" ID="txtPassword" TextMode="Password"></asp:TextBox></div></div>
                     <div class="row"><div class="col-12"><asp:Button runat="server" ID="btnLogin" CssClass="btn btn-danger"/></div></div>
+                    <div class="row"><div class="col-7"><a>Forgot Password?</a></div><div class="col-5"><asp:CheckBox runat="server" ID="chkRemember" Text="Remember Me"/></div></div>
                 </div>
             </div>
             <div class="col-sm-8">
